@@ -1,6 +1,9 @@
+![Annotation Example](maps/annotated_example.png)
+
+
 # Satellite Image Annotation Project (AI Training)
 
-![Annotation Example](maps/annotated_example.png)
+
 
 ## Project Overview
 This project demonstrates geospatial annotation used for training AI models on satellite imagery. It simulates real-world workflows used in GIS and machine learning for detecting roads and buildings.
