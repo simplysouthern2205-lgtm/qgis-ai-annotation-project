@@ -1,0 +1,86 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "road",
+        "image_id": "image1",
+        "confidence": 0.95
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-84.3880, 33.7490],
+          [-84.3870, 33.7495]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "building",
+        "image_id": "image1",
+        "confidence": 0.92
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-84.3885, 33.7485],
+          [-84.3882, 33.7485],
+          [-84.3882, 33.7488],
+          [-84.3885, 33.7488],
+          [-84.3885, 33.7485]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "road",
+        "image_id": "image2",
+        "confidence": 0.93
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-84.3900, 33.7500],
+          [-84.3890, 33.7510]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "building",
+        "image_id": "image2",
+        "confidence": 0.90
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-84.3910, 33.7490],
+          [-84.3907, 33.7490],
+          [-84.3907, 33.7493],
+          [-84.3910, 33.7493],
+          [-84.3910, 33.7490]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "road",
+        "image_id": "image3",
+        "confidence": 0.91
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-84.3920, 33.7480],
+          [-84.3910, 33.7487]
+        ]
+      }
+    }
+  ]
+}

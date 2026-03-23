@@ -1,0 +1,9 @@
+## Annotation Workflow
+
+1. Selected satellite imagery for analysis
+2. Identified key features (roads, buildings)
+3. Created annotation structure using GeoJSON
+4. Labeled features with coordinates and geometry types
+5. Organized data for AI training use
+
+This workflow simulates real-world geospatial annotation tasks used in machine learning.
