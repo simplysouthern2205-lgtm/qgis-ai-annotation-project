@@ -1,4 +1,21 @@
-![Annotation Example](maps/annotated_example.png)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d57e2d67-4cec-4c22-9810-e4ab3b86f1c2" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 [README.md.txt](https://github.com/user-attachments/files/26191657/README.md.txt)
